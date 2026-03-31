@@ -1248,6 +1248,11 @@ a.tag:link {
   border: 1px solid #DAECFF;
 }
 
+li.blurb .tags {
+  max-height: 16em;
+  overflow-y: auto;
+}
+
 .blurb p.status span,
 .blurb p.status a,
 .blurb p.status img {
