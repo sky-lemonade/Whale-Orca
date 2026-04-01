@@ -967,7 +967,7 @@ li.blurb,
   background-repeat: no-repeat !important;
   background-position: top right !important;
   background-size: contain !important;
-  opacity: 65% !important;
+  opacity: 20% !important;
 }
 
 #workskin dl.work.meta dd.language::before,
