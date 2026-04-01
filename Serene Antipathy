@@ -985,7 +985,7 @@ li.blurb,
   background-repeat: no-repeat !important;
   background-position: left bottom !important;
   background-size: contain !important;
-  opacity: 35% !important;
+  opacity: 20% !important;
 }
 
 #workskin .summary .heading::before {
