@@ -1249,7 +1249,7 @@ a.tag:link {
 }
 
 li.blurb .tags {
-  max-height: 16em;
+  max-height: 10em;
   overflow-y: auto;
 }
 
