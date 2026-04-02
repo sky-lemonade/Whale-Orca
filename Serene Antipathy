@@ -119,7 +119,7 @@ label.action:hover,
   overflow: visible !important;
   background-image: url("https://64.media.tumblr.com/7a43e08e0b63afceb70fa83a1fa8f908/c8381bb53f84d080-c8/s2048x3072/87d25be48c28a32818f07b8fd841cc4fbf0d3e3c.png"),
     url("https://64.media.tumblr.com/404ed024375ce9544b9bdf6cfd98c27e/c8381bb53f84d080-f2/s2048x3072/5a3310956fd816a36d9a633fca8d3388660f8d1d.png") !important;
-  background-repeat: no-repeat, no-repeat !important;
+  background-repeat: repeat-x, repeat-x !important;
   background-position: top, bottom !important;
   background-size: 335px auto, 335px auto !important;
   padding: 32px 30px !important;
