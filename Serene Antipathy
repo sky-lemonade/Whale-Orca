@@ -506,7 +506,7 @@ li.comment {
 p.kudos {
   padding-left: 2em;
   background: url("https://64.media.tumblr.com/bf318e429103e72482dd00f808bd66cd/953e5b6cb1116e5a-67/s1280x1920/78af94bf224ec0c75b57f77b92837d013a238f81.png");
-  background-size: 22px 320px;
+  background-size: 22px 318px;
   background-position: top left;
   background-repeat: no-repeat;
   min-height: 112px;
