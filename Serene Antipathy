@@ -1,5 +1,5 @@
 #outer {
-  background: #223954 !important;
+  background: #223954;
 }
 
 #inner {
