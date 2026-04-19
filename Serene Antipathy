@@ -756,8 +756,13 @@ form dt {
 }
 
 .comment div.icon {
-  border-bottom: 5px solid #203756;
-  border-right: 1px solid #203756;
+  border: 2px solid #c4d4e6 !important;
+  border-radius: 50%;
+  padding: 0;
+  margin-top: -27px;
+  margin-right: 15px;
+  overflow: hidden;
+  float: left;
 }
 
 .flash,
